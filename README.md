@@ -1,16 +1,9 @@
-# pathfinder
+# College Navigation using flutter
 
-A new Flutter project.
+This is a simple project I made for college
 
-## Getting Started
+Its not 100% accurate but gets the job done
 
-This project is a starting point for a Flutter application.
+You need a QR to start this app in the first place. I have set reception  as startup so generate a QR from that string.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can fork this project and modify the map and location markers to be used on other places
